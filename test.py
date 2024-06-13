@@ -9,3 +9,4 @@
     ID_ERROR,
 ) = range(7)
 
+# so eventually i'll use this to generate an enum
